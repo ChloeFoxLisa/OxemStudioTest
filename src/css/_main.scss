@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.center {
+    padding: 0 calc(50% - 688px);
+}
+
+@media (min-width: 1120px) and (max-width: 1439px) {
+    .center {
+        padding: 0 48px;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 1119px) {
+    .center {
+        padding: 0 36px;
+    }
+}
+
+
+@media (max-width: 767px) {
+    .center {
+        padding: 0 20px;
+    }
+}
