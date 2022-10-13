@@ -1,5 +1,5 @@
 # Тестовое задание Oxem Studio
 Стек: HTML, SCSS, ReactJS, MaterialUI
 
-npm i
+npm i<br>
 npm start
